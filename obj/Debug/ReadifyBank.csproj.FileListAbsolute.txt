@@ -1,0 +1,6 @@
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\bin\Debug\ReadifyBank.exe.config
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\bin\Debug\ReadifyBank.exe
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\bin\Debug\ReadifyBank.pdb
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\obj\Debug\ReadifyBank.csprojResolveAssemblyReference.cache
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\obj\Debug\ReadifyBank.exe
+C:\Users\Paras\Documents\RevolutionIT\ReadifyBank\obj\Debug\ReadifyBank.pdb
